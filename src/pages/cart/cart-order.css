@@ -1,0 +1,16 @@
+.cart-order{
+    margin-left: 100px;
+    width: 400px;
+}
+
+.cart-item {
+    display: -webkit-box;
+}
+.div-cart-order{
+    width: 800px;
+    margin-left: 300px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    border: 1px solid;
+   padding: 10px;
+}
